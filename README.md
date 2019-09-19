@@ -1,3 +1,5 @@
+This is a fork from https://github.com/markondej/fm_transmitter. It's just here for Backup-Reasons. :)
+
 # fm_transmitter
 Use Raspberry Pi as FM transmitter. Works on every Raspberry Pi board.
 
